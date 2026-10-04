@@ -1,0 +1,10 @@
+{
+  "name": "cinta-cuan-final",
+  "version": "3.0.0",
+  "private": true,
+  "description": "Cinta & Cuan — premium realtime 2-player couple board game",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"express": "^4.21.2", "socket.io": "^4.8.1"}
+}
